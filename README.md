@@ -1,7 +1,7 @@
 Simple Shell Project
 Description
 
-This project is a simple version of the linux shell made for Holberton School. This simple_shell is a command line interpreter, created using the C programming Language and it can do many functionalities that a real shell does.
+This project is a simple version of the linux shell made for Alx Africa. This simple_shell is a command line interpreter, created using the C programming Language and it can do many functionalities that a real shell does.
 Requirements
 
 Simple_shell is designed to run in the Ubuntu 14.04 and to be compiled using the GNU compiler collection v. gcc 4.8.4.
